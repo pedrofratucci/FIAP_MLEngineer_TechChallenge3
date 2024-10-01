@@ -1,9 +1,5 @@
 # FIAP Tech Challenge 3 - Machine Learning Engineer
 
-# Business Problem
-
-In process...
-
 # Objective and Solution Proposal
 
 
@@ -265,27 +261,12 @@ Which makes sense. The larger the store, probably more assorted products it offe
 
 # Machine Learning Models Testing
 
-In process...
+For more about the decisions made and how it was done: [Rossmann_Sales notebook](https://github.com/pedrofratucci/FIAP_MLEngineer_TechChallenge3/blob/main/notebooks/tech_challenge3_FIAP.ipynb)
 
 # Proposed Machine Learning Model
 
-In process...
 
-**OBS:** For more about the decisions made and how it was done: [Rossmann_Sales notebook](https://github.com/pedrofratucci/Rossmann_Sales/blob/main/notebooks/rossmann_sales_ph.ipynb)
-
-
-# Business Solution Performance
-
-In process...
-
-# Deploy 
-
-The model predictions, store by store, can be found through this chatbot in Telegram:
- - https://web.telegram.org/#/im?p=@pedero_rossmann_bot
-
-# Further Improvements
-
-In process...
+For more about the decisions made and how it was done: [Rossmann_Sales notebook](https://github.com/pedrofratucci/FIAP_MLEngineer_TechChallenge3/blob/main/notebooks/tech_challenge3_FIAP.ipynb)
 
 # References
 
