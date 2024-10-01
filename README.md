@@ -1,6 +1,4 @@
-# Rosmman Sales Prediction
-![Main figure](https://www.cosmetic-business.com/media/mandant/globale-verfuegbare-Medien/News-Upload/CosmeticBusiness/2015/rossmann-schriftzug.jpg)
-
+# FIAP Tech Challenge 3 - Machine Learning Engineer
 
 # Business Problem
 
